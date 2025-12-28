@@ -1,0 +1,27 @@
+student_id,program,grade,attendance_rate,assignments_completed,absences,risk_label
+1001,Data Science,82,0.92,10,1,0
+1002,Data Science,74,0.88,9,2,0
+1003,Data Science,58,0.70,7,5,1
+1004,Data Science,91,0.95,10,0,0
+1005,Data Science,65,0.78,8,3,0
+2001,Engineering,72,0.81,8,3,0
+2002,Engineering,55,0.62,6,6,1
+2003,Engineering,49,0.60,5,7,1
+2004,Engineering,83,0.89,9,2,0
+2005,Engineering,68,0.76,7,4,0
+2006,Engineering,77,0.84,8,3,0
+3001,Business,88,0.93,10,1,0
+3002,Business,61,0.74,7,4,0
+3003,Business,57,0.69,6,5,1
+3004,Business,73,0.82,8,3,0
+3005,Business,64,0.77,7,4,0
+4001,Medicine,92,0.96,10,0,0
+4002,Medicine,81,0.90,9,1,0
+4003,Medicine,70,0.83,8,3,0
+4004,Medicine,59,0.72,7,5,1
+4005,Medicine,66,0.79,8,3,0
+5001,Humanities,54,0.65,6,6,1
+5002,Humanities,62,0.75,7,4,0
+5003,Humanities,71,0.82,8,3,0
+5004,Humanities,48,0.58,5,7,1
+5005,Humanities,69,0.80,8,2,0
